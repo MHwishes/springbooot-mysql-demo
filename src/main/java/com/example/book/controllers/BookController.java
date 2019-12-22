@@ -1,5 +1,6 @@
 package com.example.book.controllers;
 
+import com.example.book.domain.Book;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
