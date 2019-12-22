@@ -2,7 +2,7 @@ package com.example.book.domain;
 import javax.persistence.*;
 
 @Entity
-@Table(name="book")
+@Table(name="book_market")
 
 public class Book {
   @Id
